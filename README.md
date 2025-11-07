@@ -1,4 +1,4 @@
-# 🌿 Wildlife Realm - 3D Predator Challenge
+# 🌿 Wildlife Realm - 3D Game Challenge
 
 #### Description:
 
