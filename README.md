@@ -18,6 +18,7 @@ Have you ever wondered what it's truly like to run at top speed? This project br
 - **Immersive 3D World:** Explore a beautifully rendered 3D environment optimized for high-speed action and built with the power of Babylon.js.
 - **Speed & Agility Mechanics:** Experience realistic mechanics for acceleration, top speed, and sharp turning in both animals.
 - **Modern Tech Stack:** A fast and responsive experience powered by Next.js and styled with a clean **Tailwind CSS** interface.
+- **Responsive Design (Mobile-Ready):** The application ensures a seamless experience across all devices, from large monitors to smartphones, adapting the layout and 3D controls for optimal viewing and touch interaction.
 
 ---
 
